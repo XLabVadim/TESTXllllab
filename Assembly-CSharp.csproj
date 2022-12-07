@@ -37,9 +37,13 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
-     <Compile Include="Assets\Scripts\FreeCamera.cs" />
      <Compile Include="Assets\Scripts\SpawnStone.cs" />
      <Compile Include="Assets\Scripts\MoveCloud.cs" />
+     <Compile Include="Assets\Scripts\Tools.cs" />
+     <Compile Include="Assets\Scripts\FreeCamera.cs" />
+     <Compile Include="Assets\GOLF\scripts\game.cs" />
+     <Compile Include="Assets\GOLF\scripts\StoneSpaw.cs" />
+     <Compile Include="Assets\GOLF\scripts\player.cs" />
      <None Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Shaders\Cloud.shader" />
      <None Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Shaders\Diffuse.shader" />
     <Reference Include="UnityEngine">

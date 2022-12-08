@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
-    public Transform m_tools;
+    /*public Transform m_tools;
 
     public float range = 30f;
     public float speed = 1f;
@@ -23,5 +23,5 @@ public class player : MonoBehaviour
 
         m_tools.localEulerAngles = angels;
     }
-    void Up()
+    void Up()*/
 }
